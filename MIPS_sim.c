@@ -1,4 +1,4 @@
-
+//MIPS-Simulator, compression and decompression algorithm impltemented
 
 #include<stdio.h>
 #include<stdlib.h>
